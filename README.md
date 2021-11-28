@@ -6,7 +6,7 @@ past, she ran ads to advertise a related course on the same blog and collected d
 process. She would now like to employ your services as a Data Science Consultant to help 
 her identify which individuals are most likely to click on her ads. 
 
-This project was generated with R, DS Libraries and Jupyter Notebooks
+This project was generated with R, DS Libraries and R studio or colabs R Notebooks
 
 # By Francis Gikaru
 
